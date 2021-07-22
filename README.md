@@ -9,6 +9,6 @@ BlueShop is a e-commerse website for mobile buying and selling . it's objective 
 ![Screenshot (139)](https://user-images.githubusercontent.com/55937301/126619156-a1520b7b-82f0-4151-8e02-a048e702cfa1.png)
 ![Screenshot (140)](https://user-images.githubusercontent.com/55937301/126619197-09b3f37f-4f3c-4099-b472-c9a8414b6da7.png)
 
-# BlueShop
-Abhishek Sapute
-Aniket Narayane
+# Developed By
+Abhishek Satpute - https://github.com/Abhi22-github
+Aniket Narayane  - https://github.com/aniketnarayane04
